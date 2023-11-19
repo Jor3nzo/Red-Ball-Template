@@ -8,4 +8,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Art/Showcase.unity
     guid: 417cbcb51dd90435b81b5c5228fc2eb8
+  - enabled: 1
+    path: Assets/Level 1.unity
+    guid: 9ebea3010dbd22640a478b1135eb7c66
+  - enabled: 1
+    path: Assets/Template.unity
+    guid: e0e62d3accf2a5c418d1c73a2323eb5c
+  - enabled: 1
+    path: Assets/Level 2.unity
+    guid: 91b3379837ac09346a4ffed9448b8112
+  - enabled: 1
+    path: Assets/Level 3.unity
+    guid: a03ab394e5295ec4e96227cc86b099db
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
